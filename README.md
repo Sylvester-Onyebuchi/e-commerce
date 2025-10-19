@@ -44,7 +44,10 @@ Easy setup for backend + PostgreSQL using Docker Compose
 
 
 DOCKER SETUP
+
 git clone https://github.com/Sylvester-Onyebuchi/ecommerce.git
+
 cd ecommerce
+
 docker-compose up --build
 
